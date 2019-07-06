@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Oshin Katulkar</title>
-    <link>http://oshinkatulkar.com/post/</link>
+    <link>https://oshinkatulkar.com/post/</link>
     <description>Recent content in Blog on Oshin Katulkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Oshin Katulkar</copyright>
     <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
     
-	<atom:link href="http://oshinkatulkar.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oshinkatulkar.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting started</title>
-      <link>http://oshinkatulkar.com/post/getting-started/</link>
+      <link>https://oshinkatulkar.com/post/getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>http://oshinkatulkar.com/post/getting-started/</guid>
+      <guid>https://oshinkatulkar.com/post/getting-started/</guid>
       <description>&lt;p&gt;Here are some details to help you getting started with your personal brand.&lt;/p&gt;</description>
     </item>
     
